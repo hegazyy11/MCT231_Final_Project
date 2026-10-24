@@ -1,0 +1,9 @@
+# SolidWorks temp/lock files
+~$*
+*.SLDBAK
+# Proteus backups
+*.pdsbak
+Last Loaded *.pdsbak
+# OS
+.DS_Store
+Thumbs.db
